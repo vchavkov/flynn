@@ -6,3 +6,6 @@ demo/*.log
 *.test
 /tmp
 /build
+
+.c9
+.idea
